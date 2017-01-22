@@ -12,6 +12,7 @@ INSTRUCTION TO SET UP THE PROJECT
 Please make sure Java8 is installed on the machine.
 
 There are two ways to utilize the any of the above Java program.
+
 1. Project Setup in Eclipse
    - Create a workspace in eclipse.
    - Copy paste the above two folder in workspace folder.
