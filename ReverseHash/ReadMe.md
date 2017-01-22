@@ -20,3 +20,12 @@ OUTPUT CONSOLE
 2. Enter -1 to exit.
 
 3. Enter hashcode which user wants to convert.
+
+
+SAMPLE INPUT/OUTPUT
+-------------------
+Enter Hash Code (Press -1 to exit)::
+680131659347
+Reverse Hash :: leepadg
+Enter Hash Code (Press -1 to exit)::
+-1
