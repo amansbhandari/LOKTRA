@@ -11,3 +11,9 @@ To run through JAR :
 1. Run command "java -jar webCrawler.jar toothbrush 3" or "java -jar webCrawler.jar toothbrush" from the path where jar exists.
 
 2. To run Unit tests "java -cp webCrawler.jar UnitTests.runTests"
+
+SAMPLE INPUT/OUTPUT:
+
+C:\Users\abhandari\Desktop>java -jar webCrawler.jar buy 2
+
+Total Number of results for Keyword 'buy' on page number 2 is 40
