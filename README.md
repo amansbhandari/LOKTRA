@@ -22,5 +22,5 @@ There are two ways to utilize the any of the above Java program.
 2. Through JAR
    - JAR file is present in each folder.
    - Go to the path where JAR file exists in directory.
-   - Write command 'java -jar <nameOfJar>.jar' to run the program and see output console.
-   - Write command 'java -cp <nameOfJar>.jar <TestPackageName>.<TestClassNameHavingMainFunction>' to run unit tests.
+   - Write command 'java -jar <nameOfJar >.jar' to run the program and see output console.
+   - Write command 'java -cp <nameOfJar >.jar <TestPackageName >.<TestClassNameHavingMainFunction >' to run unit tests.
