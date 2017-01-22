@@ -17,3 +17,10 @@ SAMPLE INPUT/OUTPUT:
 C:\Users\abhandari\Desktop>java -jar webCrawler.jar buy 2
 
 Total Number of results for Keyword 'buy' on page number 2 is 40
+
+
+Note :
+
+Could have used JSOUP library to parse HTML doc but wrote this from scratch to apply design patterns principles.
+
+P.S Response is taking a little longer time than JSOUP.
